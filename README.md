@@ -1,14 +1,9 @@
 <div align="center">
   <br>
-  <img alt="KhulnaSoft OpenSource" src="https://i.ibb.co/7jPXt0Z/logo1-92f1a87f.png" width="300px">
   <h1>🍕 insights.khulnasoft.com 🍕</h1>
   <strong>The site provides insights to Open Source projects.</strong>
 </div>
 <br>
-
-## 🖼️ Project Figma
-
-The figma for this project can be found [here](<https://www.figma.com/file/OpVX6WT7dmWqnwRuEvADMF/KhulnaSoft-%E2%80%94-Insights-(insights.khulnasoft.com)>).
 
 ## 🔬 Atomic Design
 
