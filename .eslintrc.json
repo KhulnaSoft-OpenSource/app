@@ -1,0 +1,23 @@
+{
+  "extends": ["next/core-web-vitals", "plugin:prettier/recommended", "plugin:storybook/recommended"],
+  "plugins": ["unused-imports"],
+  "rules": {
+    "jsx-quotes": "error",
+    "unused-imports/no-unused-imports": "error",
+    "import/order": [
+      "error",
+      {
+        "groups": [
+          "builtin",
+          "external",
+          "internal",
+          "object",
+          "type",
+          "index",
+          "parent",
+          "sibling"
+        ]
+      }
+    ]
+  }
+}
